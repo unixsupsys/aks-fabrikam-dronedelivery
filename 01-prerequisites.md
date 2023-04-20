@@ -28,7 +28,7 @@ This document is the starting point for deploying the [AKS Secure Baseline refer
    > :twisted_rightwards_arrows: If you have forked this reference implementation repos, you'll be able to customize some of the files and commands for a more personalized experience; also, ensure references to repos mentioned are updated to use your own (e.g., the following `GITHUB_REPO`).
 
    ```bash
-   export GITHUB_REPO=[https://github.com/unixsupsys/aks-fabrikam-dronedelivery.git]
+   export GITHUB_REPO=https://github.com/unixsupsys/aks-fabrikam-dronedelivery.git
    git clone --recurse-submodules $GITHUB_REPO
    ```
 
